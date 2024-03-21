@@ -1,9 +1,9 @@
 # Phase 1 Project Description
 
-# Overview
+## Overview
 In partnership with Microsoft's new movie studio venture, this analysis explores successful films to understand what makes them thrive at the box office. By looking at data on production budgets, box office earnings, runtime lengths, and audience ratings, the aim is to find useful insights. These insights will help Microsoft's decision- makers plan how to make movies that people love and that succeed in the movie industry. By using data to guide their decisions, Microsoft hopes to become a notable player in creating original video content, meeting the changing tastes of audiences worldwide.
 
-# Business Understanding
+## Business Understanding
 
 ### Project Objective
 The overarching goal of this project is to assist Microsoft’s new movies studio in understanding the current landscape of the film industry. By conducting comprehensive analysis, we aim to provide insights that will enable informed decisions about the types of films to produce.
@@ -26,7 +26,7 @@ Success will be measured by various metrics, including increased box office reve
 ### Constraints and Limitations
 Constraints and limitations that may impact the analysis include data availability, time constraints, and budget limitations. It's crucial to acknowledge these factors upfront to manage expectations effectively and tailor the analysis accordingly.
 
-# Data UNderstanding
+#@ Data Understanding
 1. The Movie DB Dataset:
 
 This dataset contains information about movies, including their genres, original language, popularity, release date, title, vote average, and vote count. Examples of data include "Harry Potter and the Deathly Hallows: Part 1" released on November 19, 2010, with a popularity score of 33.533 and a vote average of 7.7. 
@@ -51,11 +51,11 @@ This dataset provides additional movie information such as synopses, ratings, ge
 Website: Rotten Tomatoes
 Rotten Tomatoes also provides additional movie information such as synopses, ratings, genres, and more.
 
-# Data Analysis
+## Data Analysis
 
 During the data analysis phase, I examined movie datasets for details like titles, release dates, earnings, and ratings. I checked for errors and missing information before looking for patterns in the data to understand popular movie genres, release times, production budgets, and audience ratings. I also reviewed critic reviews to gauge audience preferences. This analysis provided insights for Microsoft's new movie studio on which types of movies to produce for success in the industry.
 
-# Recommendations
+## Recommendations
 
 ### Relationship between Ratings and Runtime
 
@@ -93,6 +93,6 @@ During the data analysis phase, I examined movie datasets for details like title
 * Explanation: According to the graph PG-13 and NR(Not Rated) are most popular.
 ![image](https://github.com/olivemideva/dsc-phase-1-project-v2-4/blob/master/Images/Relationship%20between%20Movie%20rating%20and%20Box%20office%20performance.png)
 
-# Contact Info
+## Contact Info
 Olive Mideva Muloma
 My LinkedIn(https://www.linkedin.com/in/olive-mideva-ab312921b/)
