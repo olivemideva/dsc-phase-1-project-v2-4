@@ -95,4 +95,4 @@ During the data analysis phase, I examined movie datasets for details like title
 
 ## Contact Info
 Olive Mideva Muloma
-My LinkedIn(https://www.linkedin.com/in/olive-mideva-ab312921b/)
+[My LinkedIn](https://www.linkedin.com/in/olive-mideva-ab312921b/)
