@@ -26,7 +26,7 @@ Success will be measured by various metrics, including increased box office reve
 ### Constraints and Limitations
 Constraints and limitations that may impact the analysis include data availability, time constraints, and budget limitations. It's crucial to acknowledge these factors upfront to manage expectations effectively and tailor the analysis accordingly.
 
-#@ Data Understanding
+## Data Understanding
 1. The Movie DB Dataset:
 
 This dataset contains information about movies, including their genres, original language, popularity, release date, title, vote average, and vote count. Examples of data include "Harry Potter and the Deathly Hallows: Part 1" released on November 19, 2010, with a popularity score of 33.533 and a vote average of 7.7. 
