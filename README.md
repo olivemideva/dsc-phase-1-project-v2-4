@@ -61,37 +61,37 @@ During the data analysis phase, I examined movie datasets for details like title
 
 * Recommendation: Microsoft should make movies with shorter duration(runtimes)
 * Explanation: According to the graph movies with a shorter durations get more engagement proved by a high number of rating implying popularity.
-![image](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/assets/67095878/efafeb6d-de4b-4f4d-b737-425166f4abea)
+![image](https://github.com/olivemideva/dsc-phase-1-project-v2-4/blob/master/Images/Average%20Rating%20Across%20Different%20Runtimes.png).
 
 # Relationship between Vote Count and Popularity
 
 * Recommendation: Microsoft should make have movies and platforms encouraging more audience interaction.
 * Explanation: According to the graph the movies are more popular when they have more audience interactions through votes.
- ![image](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/assets/67095878/efafeb6d-de4b-4f4d-b737-425166f4abea)
+ ![image](https://github.com/olivemideva/dsc-phase-1-project-v2-4/blob/master/Images/Relationship%20between%20Popularity%20and%20Vote%20Count.png)
  
 # Relationship between Movie Directors and Success
 
 * Recommendation: Microsoft should consider popular movie directors to make their movies.
 * Explanation: According to the graph some directors’movies have better ratings making them ideal for making successful movies.
-![image](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/assets/67095878/efafeb6d-de4b-4f4d-b737-425166f4abea)
+![image](https://github.com/olivemideva/dsc-phase-1-project-v2-4/blob/master/Images/Top%2020%20directors.png)
 
 # Relationship between Production Budget and Gross Income
 
 * Recommendation: Microsoft should consider investing more in their movies to get a good income.
 * Explanation: According to the graph when movies have a high budget they tend to have a higher income in return.
-![image](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/assets/67095878/efafeb6d-de4b-4f4d-b737-425166f4abea)
+![image](https://github.com/olivemideva/dsc-phase-1-project-v2-4/blob/master/Images/Correlation%20between%20budget%20and%20total%20gross%20revenue.png)
 
 # Relationship between Genres and Success
 
 * Recommendation: Microsoft should consider making movies from the top 5 genres.
 * Explanation: According to the graph Drama is the most popular genre and this implies that it is what the audience like seeing more.
-![image](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/assets/67095878/efafeb6d-de4b-4f4d-b737-425166f4abea)
+![image](https://github.com/olivemideva/dsc-phase-1-project-v2-4/blob/master/Images/Correlation%20between%20budget%20and%20total%20gross%20revenue.png)
 
 # Relationship between Movie Rating and Performance
 
 * Recommendation: Microsoft should consider making more movies that are not rated or are PG-13.
 * Explanation: According to the graph PG-13 and NR(Not Rated) are most popular.
-![image](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/assets/67095878/efafeb6d-de4b-4f4d-b737-425166f4abea)
+![image](https://github.com/olivemideva/dsc-phase-1-project-v2-4/blob/master/Images/Relationship%20between%20Movie%20rating%20and%20Box%20office%20performance.png)
 
 ### Contact Info
 Olive Mideva Muloma
