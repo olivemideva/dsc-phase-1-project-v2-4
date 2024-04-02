@@ -85,7 +85,7 @@ During the data analysis phase, I examined movie datasets for details like title
 
 * Recommendation: Microsoft should consider making movies from the top 5 genres.
 * Explanation: According to the graph Drama is the most popular genre and this implies that it is what the audience like seeing more.
-![image](https://github.com/olivemideva/dsc-phase-1-project-v2-4/blob/master/Images/Correlation%20between%20budget%20and%20total%20gross%20revenue.png)
+![image](https://github.com/olivemideva/dsc-phase-1-project-v2-4/blob/master/Images/Genres.png)
 
 ### Relationship between Movie Rating and Performance
 
